@@ -11,7 +11,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/kostromin59/funpay"
+	"github.com/kostromin56/funpay"
 )
 
 func TestFunpayRequest(t *testing.T) {

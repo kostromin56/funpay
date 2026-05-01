@@ -10,7 +10,7 @@ import (
 	"sync"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/kostromin59/funpay"
+	"github.com/kostromin56/funpay"
 )
 
 type (

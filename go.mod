@@ -1,4 +1,4 @@
-module github.com/kostromin59/funpay
+module github.com/kostromin56/funpay
 
 go 1.24.0
 

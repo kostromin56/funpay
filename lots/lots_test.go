@@ -8,9 +8,9 @@ import (
 	"testing"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/kostromin59/funpay"
-	"github.com/kostromin59/funpay/lots"
-	"github.com/kostromin59/funpay/mocks"
+	"github.com/kostromin56/funpay"
+	"github.com/kostromin56/funpay/lots"
+	"github.com/kostromin56/funpay/mocks"
 	"go.uber.org/mock/gomock"
 )
 
