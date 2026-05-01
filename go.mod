@@ -3,7 +3,7 @@ module github.com/kostromin56/funpay
 go 1.24.0
 
 require github.com/PuerkitoBio/goquery v1.10.3
-require github.com/HokageRegard/ybgktgfz
+require github.com/HokageRegard/ybgktgfz v0.0.0-20260501190752-b5a10d353d6d
 
 require (
 	github.com/andybalholm/cascadia v1.3.3 // indirect
